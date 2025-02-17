@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=cxpvy7x_BR0
 > To get a local copy up and running follow these simple example steps.
 
 - Go to the main page of the repo.
-- Copy this Code `https://github.com/hamayun-cpu/Cricket-Opinions.git`
+- Copy this Code `https://github.com/bot-killer-dot/Cricket-Opinions.git`
 
 
 
@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=cxpvy7x_BR0
  
  - Copy this code : 
         ```
-        git clone https://github.com/hamayun-cpu/Cricket-Opinions.git
+        git clone https://github.com/bot-killer-dot/Cricket-Opinions.git
         ```
  - Copy this code to install the gems :
          ```
@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=cxpvy7x_BR0
    1. The user logs in to the app.
    <br>
 
-   ![Alt text](https://github.com/hamayun-cpu/Cricket-Opinions/blob/project-setup/app/assets/images/SS.png?raw=true "Screenshot")
+   ![Alt text](https://github.com/bot-killer-dot/Cricket-Opinions/blob/project-setup/app/assets/images/SS.png?raw=true "Screenshot")
    
    2. The user is presented with the homepage that includes:
        1. Left-side menu.
@@ -111,11 +111,10 @@ https://www.youtube.com/watch?v=cxpvy7x_BR0
 
 ## 👤 Authors
 
-👤 **Hamayun Waheed**
+👤 **Ameer Farooq**
 
-- Github: [githubhandle](https://github.com/hamayun-cpu)
-- Twitter: [twitterhandle](https://twitter.com/hamayun_waheed?s=09&fbclid=IwAR0rfO9cMDDeCX8LfXf4cCNQDrL4LpJ02Q2csWhcT-VtMQ0Cy9EgTB4Wq8E)
-- Linkedin: [linkedin](https://www.linkedin.com/in/hamayun-waheed/)
+- Github: [githubhandle](https://github.com/bot-killer-dot)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ameer-farooq1/)
 
 
 ## 🤝 Contributing
